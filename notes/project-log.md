@@ -8,6 +8,7 @@
 
 ## 已知信息
 
+- 网站域名：**sdtd.top**
 - 域名和服务器已经由 Cowork 那边准备好。具体是哪家服务商、IP、网站目录、部署方式，等交接文档写明。
 - GitHub 仓库 `Neogethub/Raspberry`：**公开仓库**，接管前完全为空（没有任何分支）。
 - 开发分支：`claude/confident-davinci-l5m7u4`
